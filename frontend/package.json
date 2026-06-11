@@ -2,7 +2,7 @@
   "name": "employee-management-system",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://emagesh1408.github.io/EMS-Project/",
+  "homepage": "https://github.com/subasrigopi2006-art/employee-management-system.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
