@@ -5,7 +5,7 @@
   "homepage": "https://github.com/subasrigopi2006-art/employee-management-system.git",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npx vite build",
     "preview": "vite preview"
   },
 
