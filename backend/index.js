@@ -12,7 +12,7 @@ const app = express();
 
 connectDB();
 
-app.use(cors({ origin: "http://localhost:5173" }));
+app.use(cors({ origin: "https://agent-6a2ae67bcaf7ad612aaa8682--ems02.netlify.app" }));
 app.use(express.json());
 
 // Routes
